@@ -1,4 +1,4 @@
-# Hi there, I'm Amir Mohammad! 👋
+# Hi there, I'm AmirMohammad Ghasemzadeh! 👋
 
 I'm a full-stack developer and technology instructor specializing in building scalable software solutions and mentoring the next generation of developers. With extensive experience in backend, frontend, and mobile application development, I am always eager to learn and grow.
 
@@ -12,6 +12,6 @@ My goal is to create clean, efficient, and maintainable code. I am currently see
 
 **Connect with me:**
 
-* LinkedIn
-* Twitter
+* LinkedIn: 
+* Twitter: 
 * Email: amirgh.devtech@gmail.com
