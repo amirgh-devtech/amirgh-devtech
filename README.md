@@ -2,7 +2,7 @@
 
 I'm a full-stack developer and technology instructor specializing in building scalable software solutions and mentoring the next generation of developers. With extensive experience in backend, frontend, and mobile application development, I am always eager to learn and grow.
 
-I identify as a polyglot developer, proficient in a wide range of programming languages. My primary focus is on **Python** and **C++**, but I have also worked on various projects using **Java**, **JavaScript**, **TypeScript**, **PHP**, and **Go**.
+I identify as a polyglot developer, proficient in a wide range of programming languages. My primary focus is on **Python** and **JavaScript**, but I have also worked on various projects using **Java**, **C++**, **TypeScript**, **PHP**, and **Go**.
 
 In the web domain, I've worked with modern frameworks like **Laravel**, **Django**, and **Flask** for backend development, and **Angular**, **Vue**, and **React** for creating engaging frontend user interfaces. My experience also extends to desktop development with **Qt** and **PyQt**, as well as mobile development with **Dart** and **Flutter**.
 
