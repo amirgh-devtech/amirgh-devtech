@@ -1,24 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=280&section=header&text=AMIRMOHAMMAD%20GHASEMZADEH&fontSize=45&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Algorithmic%20Trader%20%7C%20Informatics%20Olympiad&descSize=20&descAlignY=58&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=280&section=header&text=AMIRMOHAMMAD%20GHASEMZADEH&fontSize=45&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Quantitative%20Researcher%20%7C%20Algorithm%20Architect&descSize=20&descAlignY=58&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=I+Architect+Scalable+Systems.;I+Build+High-Frequency+Trading+Bots.;I+Solve+Complex+Algorithmic+Problems.;Targeting+Stanford+University.+" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);I+Architect+High-Frequency+Systems;I+Solve+Olympiad-Level+Algorithms;Mastering+Quantitative+Finance;Targeting+Stanford+University;I+❤️+Programming" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/amirgh-devtech">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/amirgh-devtech">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://t.me/YOUR_TELEGRAM_ID">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="mailto:amirgh.devtech@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  <a href="https://twitter.com/YOUR_X_ID">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</div>
 
 <br>
 
@@ -28,20 +34,23 @@
 
 <h2 align="center">⚡ <span style="color: #00F2FF;">The Neural Network</span></h2>
 
-<div align="center" style="font-family: monospace;">
+<div align="center" style="font-family: 'Fira Code', monospace; line-height: 1.6;">
   <p>
-    I am a <b>Polyglot Developer</b> operating at the intersection of <b>Financial Engineering</b> and <b>Systems Programming</b>. 
-    My mission is to leverage <b>High-Frequency Algorithms</b> to decode market patterns while building robust architectures.
+    I am an <b>Algorithmic Architect</b> and <b>Polyglot Software Engineer</b> specialized in 
+    <b>High-Performance Computing (HPC)</b> and <b>Quantitative Logic</b>. 
+    Currently bridgeing the gap between <i>Mathematical Theory</i> and <i>Scalable Software Implementation</i>.
   </p>
+  <code><b>System_Status:</b> <span style="color: #00F2FF;">Elite_Grinding</span></code> | 
+  <code><b>Informatics_Olympiad:</b> <span style="color: #00F2FF;">Gold_Candidate</span></code>
 </div>
 
 <br>
 
 <h2 align="center">🛠️ <span style="color: #00F2FF;">The Arsenal</span></h2>
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="180">
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" /><br>
       <b>LANGUAGES</b>
     </td>
@@ -49,31 +58,76 @@
       <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="180">
       <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40px" /><br>
       <b>FRAMEWORKS</b>
     </td>
     <td align="left">
       <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/FASTAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40px" /><br>
+      <b>DATABASE & INFRA</b>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://media.giphy.com/media/3o7TKSj0W3c8gXmI6M/giphy.gif" width="40px" /><br>
+      <b>QUANT & ALGO</b>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/META_TRADER-272525?style=for-the-badge&logo=metatrader5&logoColor=white" />
+      <img src="https://img.shields.io/badge/ALGORITHMS-black?style=for-the-badge&logo=codertoas&logoColor=white" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">📊 <span style="color: #00F2FF;">Performance Metrics</span></h2>
+<h2 align="center">📈 <span style="color: #00F2FF;">Core Logic</span></h2>
+<table align="center">
+  <tr>
+    <td>
+<pre lang="python">
+class QuantitativeEngineer:
+    def __init__(self):
+        self.name = "AmirMohammad"
+        self.focus = ["HFT", "Algo-Trading", "HPC"]
+    
+    def daily_routine(self):
+        code_robust_systems()
+        optimize_latency()
+        solve_informatics_problems()
+        return "Growth"
+</pre>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirgh-devtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgh-devtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF" height="180" />
-</div>
+<br>
+
+<h2 align="center">📊 <span style="color: #00F2FF;">Real-Time Statistics</span></h2>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirgh-devtech&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" />
@@ -81,32 +135,16 @@
 
 <br>
 
-<h2 align="center">🎮 <span style="color: #00F2FF;">Off-Duty Protocol</span></h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/GAME-GTA_ONLINE-black?style=flat-square&logo=rockstargames&logoColor=white" /><br>Strategic Chaos
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/MUSIC-R&B-black?style=flat-square&logo=spotify&logoColor=1DB954" /><br>Focus Flows
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/STYLE-ACTION-black?style=flat-square&logo=netflix&logoColor=E50914" /><br>Narrative
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h2 align="center">🐍 <span style="color: #00F2FF;">Activity Snake</span></h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amirgh-devtech/amirgh-devtech/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/amirgh-devtech/amirgh-devtech/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" width="100%" />
-  <p style="font-size: 10px;"><i>Designed for Excellence by AmirMohammad Ghasemzadeh | © 2025</i></p>
+  <p style="font-size: 11px; letter-spacing: 2px;">
+    <b>DECODING THE FUTURE | AMIRMOHAMMAD GHASEMZADEH | 2025</b>
+  </p>
 </div>
