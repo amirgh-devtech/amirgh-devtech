@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Architecting+Low-Latency+Systems;Solving+Complex+Algorithmic+Structures;Mastering+Quantitative+Derivatives;Targeting+Stanford+University;High-Performance+Computing+Expert;Pushing+The+Limits+of+Logic" alt="Typing SVG" />
+  <a href="https://github.com/amirgh-devtech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World%22);Architecting+Low-Latency+Systems;Solving+Complex+Algorithmic+Structures;Mastering+Quantitative+Derivatives;Targeting+Stanford+University;High-Performance+Computing+Expert;Pushing+The+Limits+of+Logic" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,8 +36,6 @@
     I am a <b>Polyglot Engineer</b> specializing in the synergy between <b>High-Performance Computing (HPC)</b> and <b>Deterministic Algorithmic Logic</b>. 
     My core focus lies in architecting low-latency infrastructures and decoding market microstructures through quantitative modeling.
   </p>
-  <code><b>Current_Focus:</b> <span style="color: #00F2FF;">Full-Stack_Optimization</span></code> | 
-  <code><b>Olympiad_Track:</b> <span style="color: #00F2FF;">Competitive_Programming_Elite</span></code>
 </div>
 
 <br>
@@ -126,11 +124,6 @@ class QuantitativeEngineer:
 <h2 align="center">📊 <span style="color: #00F2FF;">Real-Time Statistics</span></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirgh-devtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgh-devtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF" height="180" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirgh-devtech&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" />
 </div>
 
@@ -146,7 +139,6 @@ class QuantitativeEngineer:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" width="100%" />
   <p style="font-size: 11px; letter-spacing: 2px;">
-    <b>DECODING THE FUTURE | AMIRMOHAMMAD GHASEMZADEH | </b>
-    <img src="https://itineraries.vercel.app/api/date?format=YYYY" alt="Dynamic Year" style="vertical-align: middle; display: inline; height: 12px;" />
+    <b>DECODING THE FUTURE | AMIRMOHAMMAD GHASEMZADEH | 2026</b>
   </p>
 </div>
