@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=280&section=header&text=AMIRMOHAMMAD%20GHASEMZADEH&fontSize=45&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Quantitative%20Researcher%20%7C%20Algorithm%20Architect&descSize=20&descAlignY=58&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=280&section=header&text=AMIRMOHAMMAD%20GHASEMZADEH&fontSize=45&fontAlignY=38&desc=Software+Architect+%7C+Quantitative+Strategist+%7C+Algorithm+Researcher&descSize=20&descAlignY=58&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);I+Architect+High-Frequency+Systems;I+Solve+Olympiad-Level+Algorithms;Mastering+Quantitative+Finance;Targeting+Stanford+University;I+❤️+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Architecting+Low-Latency+Systems;Solving+Complex+Algorithmic+Structures;Mastering+Quantitative+Derivatives;Targeting+Stanford+University;High-Performance+Computing+Expert;Pushing+The+Limits+of+Logic" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,14 +15,11 @@
   <a href="https://linkedin.com/in/amirgh-devtech">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_ID">
+  <a href="https://t.me/amirgh_dev">
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:amirgh.devtech@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_X_ID">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
@@ -36,12 +33,11 @@
 
 <div align="center" style="font-family: 'Fira Code', monospace; line-height: 1.6;">
   <p>
-    I am an <b>Algorithmic Architect</b> and <b>Polyglot Software Engineer</b> specialized in 
-    <b>High-Performance Computing (HPC)</b> and <b>Quantitative Logic</b>. 
-    Currently bridgeing the gap between <i>Mathematical Theory</i> and <i>Scalable Software Implementation</i>.
+    I am a <b>Polyglot Engineer</b> specializing in the synergy between <b>High-Performance Computing (HPC)</b> and <b>Deterministic Algorithmic Logic</b>. 
+    My core focus lies in architecting low-latency infrastructures and decoding market microstructures through quantitative modeling.
   </p>
-  <code><b>System_Status:</b> <span style="color: #00F2FF;">Elite_Grinding</span></code> | 
-  <code><b>Informatics_Olympiad:</b> <span style="color: #00F2FF;">Gold_Candidate</span></code>
+  <code><b>Current_Focus:</b> <span style="color: #00F2FF;">Full-Stack_Optimization</span></code> | 
+  <code><b>Olympiad_Track:</b> <span style="color: #00F2FF;">Competitive_Programming_Elite</span></code>
 </div>
 
 <br>
@@ -78,7 +74,7 @@
   <tr>
     <td align="center" width="180">
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40px" /><br>
-      <b>DATABASE & INFRA</b>
+      <b>ENGINEERING</b>
     </td>
     <td align="left">
       <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -91,13 +87,13 @@
   <tr>
     <td align="center" width="180">
       <img src="https://media.giphy.com/media/3o7TKSj0W3c8gXmI6M/giphy.gif" width="40px" /><br>
-      <b>QUANT & ALGO</b>
+      <b>QUANT STACK</b>
     </td>
     <td align="left">
       <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/META_TRADER-272525?style=for-the-badge&logo=metatrader5&logoColor=white" />
-      <img src="https://img.shields.io/badge/ALGORITHMS-black?style=for-the-badge&logo=codertoas&logoColor=white" />
+      <img src="https://img.shields.io/badge/METATRADER-272525?style=for-the-badge&logo=metatrader5&logoColor=white" />
+      <img src="https://img.shields.io/badge/ALGO_RESEARCH-black?style=for-the-badge&logo=scientific-computing&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -111,14 +107,15 @@
 <pre lang="python">
 class QuantitativeEngineer:
     def __init__(self):
-        self.name = "AmirMohammad"
-        self.focus = ["HFT", "Algo-Trading", "HPC"]
+        self.identity = "AmirMohammad"
+        self.domains = ["High-Frequency Trading", "Distributed Systems"]
     
-    def daily_routine(self):
-        code_robust_systems()
-        optimize_latency()
-        solve_informatics_problems()
-        return "Growth"
+    def execute_lifecycle(self):
+        while self.is_alive():
+            self.optimize(latency=True)
+            self.solve(complex_algorithms=True)
+            self.refactor(everything=True)
+        return "Continuous Excellence"
 </pre>
     </td>
   </tr>
@@ -128,6 +125,10 @@ class QuantitativeEngineer:
 
 <h2 align="center">📊 <span style="color: #00F2FF;">Real-Time Statistics</span></h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirgh-devtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgh-devtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF" height="180" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirgh-devtech&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" />
@@ -145,6 +146,7 @@ class QuantitativeEngineer:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" width="100%" />
   <p style="font-size: 11px; letter-spacing: 2px;">
-    <b>DECODING THE FUTURE | AMIRMOHAMMAD GHASEMZADEH | 2025</b>
+    <b>DECODING THE FUTURE | AMIRMOHAMMAD GHASEMZADEH | </b>
+    <img src="https://itineraries.vercel.app/api/date?format=YYYY" alt="Dynamic Year" style="vertical-align: middle; display: inline; height: 12px;" />
   </p>
 </div>
