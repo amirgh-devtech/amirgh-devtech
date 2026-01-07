@@ -12,7 +12,7 @@
   <a href="https://github.com/amirgh-devtech">
     <img src="https://img.shields.io/badge/GIT-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/amirgh-devtech">
+  <a href="https://linkedin.com/in/ag-devtech">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/amirgh_devtech">
