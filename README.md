@@ -10,7 +10,7 @@
 
   <!-- Large Typing Effect -->
   <a href="https://amirgh-devtech.github.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Backend+%26+systems+engineer;Rust+·+Python+·+PostgreSQL+·+Docker;Correctness+and+performance+actually+matter." alt="Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Backend+%26+systems+engineer;Rust+·+Python+·+PostgreSQL+·+Docker;Correctness+and+performance+actually+matter;Async+Rust+·+Tokio+·+Axum+·+PyO3;Static+analysis+and+program+optimization;Design+patterns+·+SOLID+·+clean+boundaries;Interested+in+the+hard+parts" alt="Typing" />
   </a>
 
   <!-- Neon Divider -->
@@ -85,11 +85,11 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <div align="center">
 
-| ⚡ **Portfolio** | 🔒 **Private Work** |
+| 🔒 **Private Work** | 📦 **Open Source** |
 |:---:|:---:|
-| Terminal-style SPA | Backend services & tooling |
-| Tab-completion, custom shell | Private repos under active development |
-| [**→ Access**](https://amirgh-devtech.github.io) | `Status: In Progress` |
+| Backend services & tooling | CLI tools & utilities |
+| API design, data pipelines | Compiler experiments |
+| `Status: In Progress` | `Coming Soon` |
 
 </div>
 
