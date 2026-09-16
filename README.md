@@ -104,7 +104,7 @@ Backend and systems development. Interested in the parts where correctness and p
 
 | 📈 **Overview** | 🧬 **Languages** |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=amirgh-devtech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1&ring_color=7dd3fc" width="100%" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgh-devtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&text_color=cbd5e1" width="100%" alt="Top Languages" /> |
+| <img src="https://github-stats-extended.vercel.app/api?username=amirgh-devtech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1&ring_color=7dd3fc" width="100%" alt="GitHub Stats" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amirgh-devtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&text_color=cbd5e1" width="100%" alt="Top Languages" /> |
 
 </div>
 
