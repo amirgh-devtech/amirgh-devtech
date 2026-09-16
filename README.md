@@ -4,14 +4,21 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=250&section=header&text=AMIRMOHAMMAD%20GHASEMZADEH&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Click%20to%20visit%20portfolio&descAlignY=55&descSize=20&descColor=cbd5e1" width="100%" alt="Header" />
   </a>
 
-  <!-- Large Typing Effect -->
-  <a href="https://amirgh-devtech.github.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Backend+%26+systems+engineer.;Rust+·+Python+·+PostgreSQL+·+Docker.;Correctness+and+performance+actually+matter." alt="Typing" />
-  </a>
-
+  <!-- Neon Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="60%" alt="Divider" />
   <br><br>
 
-  <!-- Social Icons -->
+  <!-- Large Typing Effect -->
+  <a href="https://amirgh-devtech.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Backend+%26+systems+engineer;Rust+·+Python+·+PostgreSQL+·+Docker;Correctness+and+performance+actually+matter." alt="Typing" />
+  </a>
+
+  <!-- Neon Divider -->
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="60%" alt="Divider" />
+  <br><br>
+
+  <!-- Social Icons (Contact merged here) -->
   <div>
     <a href="https://linkedin.com/in/ag-devtech" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://t.me/amirgh_devtech" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram" /></a>&nbsp;&nbsp;<a href="mailto:amirgh.devtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" /></a>&nbsp;&nbsp;<a href="https://github.com/amirgh-devtech" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" /></a>
   </div>
@@ -19,8 +26,9 @@
 
 <br>
 
+<!-- Soft Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="85%" alt="Divider" />
 </div>
 
 <br>
@@ -31,8 +39,9 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <br>
 
+<!-- Soft Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="85%" alt="Divider" />
 </div>
 
 <br>
@@ -61,8 +70,9 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <br>
 
+<!-- Soft Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="85%" alt="Divider" />
 </div>
 
 <br>
@@ -81,8 +91,9 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <br>
 
+<!-- Soft Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="85%" alt="Divider" />
 </div>
 
 <br>
@@ -101,24 +112,6 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/amirgh-devtech/amirgh-devtech/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-</div>
-
-<br>
-
-## 📡 Contact
-
-<div align="center">
-
-| 🌐 **Portfolio** | 💼 **LinkedIn** | 📁 **GitHub** | ✉️ **Email** |
-|:---:|:---:|:---:|:---:|
-| [amirgh-devtech.github.io](https://amirgh-devtech.github.io) | [ag-devtech](https://linkedin.com/in/ag-devtech) | [amirgh-devtech](https://github.com/amirgh-devtech) | [amirgh.devtech@gmail.com](mailto:amirgh.devtech@gmail.com) |
-
 </div>
 
 <br>
