@@ -5,7 +5,7 @@
   </a>
 
   <!-- Neon Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="60%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="65%" alt="Divider" />
   <br><br>
 
   <!-- Large Typing Effect -->
@@ -15,7 +15,7 @@
 
   <!-- Neon Divider -->
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="60%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="65%" alt="Divider" />
   <br><br>
 
   <!-- Social Icons (Contact merged here) -->
@@ -24,7 +24,7 @@
   </div>
 </div>
 
-<br>
+
 
 <!-- Soft Divider -->
 <div align="center">
@@ -50,21 +50,25 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <div align="center">
 
-### Languages
-![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages**
 
-### Infrastructure
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=rust,python,ts&theme=dark" height="60" alt="Languages" />
 
-### Focus
-![Backend](https://img.shields.io/badge/BACKEND-0f172a?style=for-the-badge&logo=fastapi&logoColor=7dd3fc)
-![Systems](https://img.shields.io/badge/SYSTEMS-0f172a?style=for-the-badge&logo=rust&logoColor=7dd3fc)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0f172a?style=for-the-badge&logo=githubactions&logoColor=7dd3fc)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="45%" alt="Divider" />
+</div>
+
+**Infrastructure & Tooling**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,linux&theme=dark" height="60" alt="Infrastructure" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="45%" alt="Divider" />
+</div>
+
+**Domains**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,tensorflow,githubactions,bash&theme=dark" height="60" alt="Domains" />
 
 </div>
 
@@ -98,17 +102,7 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <br>
 
-## 📊 Stats
-
-<div align="center">
-
-| 📈 **Overview** | 🧬 **Languages** |
-|:---:|:---:|
-| <img src="https://github-stats-extended.vercel.app/api?username=amirgh-devtech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1&ring_color=7dd3fc" width="100%" alt="GitHub Stats" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amirgh-devtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&text_color=cbd5e1" width="100%" alt="Top Languages" /> |
-
-</div>
-
-<br>
+## 📊 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/amirgh-devtech/amirgh-devtech/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
