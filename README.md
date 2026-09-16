@@ -5,7 +5,7 @@
   </a>
 
   <!-- Neon Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="65%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="70%" alt="Divider" />
   <br><br>
 
   <!-- Large Typing Effect -->
@@ -15,7 +15,7 @@
 
   <!-- Neon Divider -->
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="65%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="70%" alt="Divider" />
   <br><br>
 
   <!-- Social Icons (Contact merged here) -->
@@ -28,7 +28,7 @@
 
 <!-- Soft Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="85%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="95%" alt="Divider" />
 </div>
 
 <br>
@@ -41,7 +41,7 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <!-- Soft Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="85%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="95%" alt="Divider" />
 </div>
 
 <br>
@@ -55,7 +55,7 @@ Backend and systems development. Interested in the parts where correctness and p
 <img src="https://skillicons.dev/icons?i=rust,python,ts&theme=dark" height="60" alt="Languages" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="45%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="60%" alt="Divider" />
 </div>
 
 **Infrastructure & Tooling**
@@ -63,7 +63,7 @@ Backend and systems development. Interested in the parts where correctness and p
 <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,linux&theme=dark" height="60" alt="Infrastructure" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="45%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="60%" alt="Divider" />
 </div>
 
 **Domains**
@@ -76,7 +76,7 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <!-- Soft Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="85%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="95%" alt="Divider" />
 </div>
 
 <br>
@@ -106,7 +106,7 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <!-- Soft Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="85%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="95%" alt="Divider" />
 </div>
 
 <br>
