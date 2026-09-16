@@ -20,7 +20,7 @@
 
   <!-- Social Icons (Contact merged here) -->
   <div>
-    <a href="https://linkedin.com/in/ag-devtech" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://t.me/amirgh_devtech" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram" /></a>&nbsp;&nbsp;<a href="mailto:amirgh.devtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" /></a>&nbsp;&nbsp;<a href="https://github.com/amirgh-devtech" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/ag-devtech" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/amirgh_devtech" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:amirgh.devtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/amirgh-devtech" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" /></a>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Backend and systems development. Interested in the parts where correctness and p
 
 **Domains**
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,tensorflow,githubactions,bash&theme=dark" height="60" alt="Domains" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,tensorflow,pytorch,githubactions,bash&theme=dark" height="60" alt="Domains" />
 
 </div>
 
@@ -85,11 +85,20 @@ Backend and systems development. Interested in the parts where correctness and p
 
 <div align="center">
 
-| 🔒 **Private Work** | 📦 **Open Source** |
-|:---:|:---:|
-| Backend services & tooling | CLI tools & utilities |
-| API design, data pipelines | Compiler experiments |
-| `Status: In Progress` | `Coming Soon` |
+<table width="90%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔒 Private Work</h3>
+      <p>Backend services, API design,and developer<br> tooling.</p>
+      <p><code>Status: In Progress</code></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📦 Open Source</h3>
+      <p>CLI tools, compiler experiments, utilities and automation.</p>
+      <p><code>Status: Coming Soon</code></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
