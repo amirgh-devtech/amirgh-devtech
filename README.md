@@ -89,7 +89,7 @@ Backend and systems development. Interested in the parts where correctness and p
   <tr>
     <td align="center" width="50%">
       <h3>🔒 Private Work</h3>
-      <p>Backend services, API design,and developer<br> tooling.</p>
+      <p>Backend services, API design, and developer<br> tooling.</p>
       <p><code>Status: In Progress</code></p>
     </td>
     <td align="center" width="50%">
