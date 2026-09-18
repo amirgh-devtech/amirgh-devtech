@@ -60,7 +60,7 @@ Backend and systems development. Interested in the parts where correctness and p
 
 **Infrastructure & Tooling**
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,linux&theme=dark" height="60" alt="Infrastructure" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,git,linux,bash&theme=dark" height="60" alt="Infrastructure" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc00,50:7dd3fc,100:7dd3fc00&height=1&width=600" width="60%" alt="Divider" />
@@ -68,7 +68,7 @@ Backend and systems development. Interested in the parts where correctness and p
 
 **Domains**
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,tensorflow,pytorch,githubactions,bash&theme=dark" height="60" alt="Domains" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,tensorflow,pytorch,githubactions&theme=dark" height="60" alt="Domains" />
 
 </div>
 
