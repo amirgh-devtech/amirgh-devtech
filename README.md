@@ -35,9 +35,9 @@
 
 ## 🔬 About
 
-Backend and systems development. Interested in the parts where correctness and performance actually matter. Currently building backend services and developer tooling — APIs, compilers, and low-level utilities.
+Backend and systems development. Interested in the parts where correctness and performance actually matter. Currently building backend services and developer tooling - APIs, compilers, and low-level utilities.
 
-Mostly working in Rust and Python. Some things run in production, some are still experiments. Apply machine learning when it's the right tool for the problem.
+Mostly working in **Rust** and **Python**. Some things run in production, some are still experiments. Apply machine learning when it's the right tool for the problem.
 
 <br>
 
